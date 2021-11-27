@@ -1,0 +1,284 @@
+body {
+  font-family: "Noto Sans KR"sans-serif;
+}
+
+.header {
+  background-color: #ecbcbc;
+  height: 90px;
+}
+
+.logo-j {
+  float: left;
+  padding: 15px 50px;
+  margin-left: auto;
+}
+
+.logo-h {
+  float: left;
+  padding: 50px 0px;
+}
+
+
+.logo-w {
+  float: right;
+  padding: 18px 50px;
+}
+
+.main {
+  background-color: #f5ecee;
+  height: 2675px;
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size: 35px;
+  color: #e89899;
+}
+
+.copy-container h2 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size:30px;
+  color: #6a6161;
+}
+
+.copy-container h3 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size:25px;
+  color: #878b99;
+}
+
+.button-1 {
+  font-family: "Noto Sans KR"sans-serif;
+  text-align: center;
+  padding: 10px 32px;
+  background-color: #e89899;
+  font-size: 16px;
+  border-radius: 25px;
+  color: #ffffff;
+}
+
+.button-2 {
+  font-family: "Noto Sans KR"sans-serif;
+  text-align: center;
+  padding: 10px 32px;
+  background-color: #e89899;
+  font-size: 16px;
+  border-radius: 25px;
+  color: #ffffff;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container span {
+  color: #e89899;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container span1 {
+  color: #e89899;
+}
+
+.copy-container span2 {
+  color: #878b99;
+}
+
+.copy-container p {
+  font-family: "Noto Sans KR"sans-serif;
+  color: #878b99;
+  font-size: 12px;
+}
+
+footer {
+  background-color: #ecbcbc;
+  color: #ecbcbc;
+  height: 80px;
+  padding: 20px 30px;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 30%;
+  padding: 3px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+.header {
+  background-color: #ecbcbc;
+  height: 90px;
+}
+
+.logo-j {
+  float: left;
+  padding: 15px 50px;
+  margin-left: auto;
+}
+
+.logo-h {
+  float: left;
+  padding: 50px 0px;
+}
+
+
+.logo-w {
+  float: right;
+  padding: 18px 50px;
+}
+
+.main {
+  background-color: #f5ecee;
+  height: 2750px;
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size: 35px;
+  color: #e89899;
+}
+
+.copy-container h2 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size:30px;
+  color: #6a6161;
+}
+
+.copy-container h3 {
+  font-family: "Noto Sans KR"sans-serif;
+  font-style: bold;
+  font-size:25px;
+  color: #878b99;
+}
+
+.button-1 {
+  font-family: "Noto Sans KR"sans-serif;
+  text-align: center;
+  padding: 10px 32px;
+  background-color: #e89899;
+  font-size: 16px;
+  border-radius: 25px;
+  color: #878b99;
+}
+
+.button-2 {
+  font-family: "Noto Sans KR"sans-serif;
+  text-align: center;
+  padding: 10px 32px;
+  background-color: #e89899;
+  font-size: 16px;
+  border-radius: 25px;
+  color: #ffffff;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container span {
+  color: #e89899;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container h4 {
+  text-align: left;
+  padding: 15px 35px;
+  color: #6a6161;
+}
+
+.copy-container span1 {
+  color: #e89899;
+}
+
+.copy-container span2 {
+  color: #878b99;
+}
+
+.copy-container p {
+  font-family: "Noto Sans KR"sans-serif;
+  color: #878b99;
+  font-size: 12px;
+}
+
+footer {
+  background-color: #ecbcbc;
+  color: #ecbcbc;
+  height: 70px;
+  padding: 20px 30px;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 30%;
+  padding: 3px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+  .main {
+    background-color: #f5ecee;
+    height: 2850px;
+    padding: 100px 80px;
+}
